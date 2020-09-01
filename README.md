@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->###Fun Facts 
+##I like Football 🏈
+##I'm a student @ DB taking Computer Science Foundations 
+##I like coding 
+
