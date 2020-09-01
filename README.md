@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->###Fun Facts 
-##I like Football 🏈
-##I'm a student @ DB taking Computer Science Foundations 
-##I like coding 
+## I like Football 🏈
+## I'm a student @ DB taking Computer Science Foundations 
+## I like coding 
 
